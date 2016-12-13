@@ -5,7 +5,7 @@ The Social Change Data Commmons (SCDC) is the working title for a Los Angeles re
 + Minimum Inclusion Criteria for Datasets
 + Data Categories
 + Glossary / Definiton of Terms
-+ Advisory Board
++ [Advisory Board](https://github.com/compilerla/social-change-data-commons/blob/master/advisory-board.md)
 + Finalized RFP to be published December 16th 2016
 + Outreach/ Vendor List for RFP
 + User Person Research
