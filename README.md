@@ -12,3 +12,4 @@ Key Project Members Include:
 + Marie-Aimee Brajeux, California Community Foundation
 + Vyki Englert, Compiler LA
 + Emily Forscher, Compiler LA
++ [Advisory Board](https://github.com/compilerla/scdc/blob/master/advisory-board.md)
