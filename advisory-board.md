@@ -2,7 +2,8 @@
 _Social Innovation and Marketing Manager_, Goldhirsh Foundation	
 
 ### Catherine Geanuracos
-_Innovation and Performance Commission Commissioner_, City of Los Angeles
+_Chief Executive Officer_, CityGrows
+Formerly _Innovation and Performance Commission Commissioner_, City of Los Angeles
 
 ### Chris Ringewald
 _Research Manager_, Advancement Project
@@ -21,6 +22,9 @@ _CEO_, Department of Better Technology
 
 ### Juan Lopez
 _Deputy of Technology and Innovation_, City of Los Angeles - Office of the City Controller
+
+### Hunter Owens
+_Data Scientist_, City of Los Angeles
 
 ### Matthew Sharp
 _City Health Commission	Commissioner_, City of Los Angeles
